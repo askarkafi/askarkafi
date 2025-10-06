@@ -1,16 +1,29 @@
-## Hi there 👋
+### 👋 Hi, I'm Mehdi Askarkafi  
 
-<!--
-**askarkafi/askarkafi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Ph.D. student in Computer Engineering (Software)  
+💡 Focused on building reliable embedded systems & clean desktop applications.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🛠️ Tech Stack
+- **Languages:** C, C++, C#, Python  
+- **Frameworks:** .NET / WPF, STM32 HAL, FreeRTOS  
+- **Tools:** Visual Studio, STM32CubeIDE, Git  
+- **Other Interests:** Communication Protocol Design, System Architecture, and Control Systems
+
+---
+
+#### 🚀 Featured Projects
+- 🧠 [HIDLinker](https://github.com/mehdiaskarkafi/HIDLinker) — Reliable USB HID communication between STM32 and WPF  
+- ⚙️ MultiCPM2025 — Motion control framework for embedded + desktop integration  
+
+---
+
+#### 📫 Contact
+- 🌐 [Portfolio / Blog (optional)](https://askarkafi.ir)
+- 📧 askarkafi@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/Askarkafi)
+
+---
+
+⭐️ *"Clean code is not just a style — it’s a philosophy."*
